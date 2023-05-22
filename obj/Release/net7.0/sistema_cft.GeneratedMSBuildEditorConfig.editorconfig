@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = sistema_cft
+build_property.RootNamespace = sistema_cft
+build_property.ProjectDir = C:\Users\camil\OneDrive\Escritorio\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Proyecto .NET\sistema_cft\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\camil\OneDrive\Escritorio\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Proyecto .NET\sistema_cft
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Asignaturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Asignaturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Asignaturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Asignaturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Asignaturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/EstudianteAsignaturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZUFzaWduYXR1cmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/EstudianteAsignaturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZUFzaWduYXR1cmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/EstudianteAsignaturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZUFzaWduYXR1cmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/EstudianteAsignaturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZUFzaWduYXR1cmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/EstudianteAsignaturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZUFzaWduYXR1cmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Estudiantes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Estudiantes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Estudiantes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Estudiantes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Estudiantes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/camil/OneDrive/Escritorio/apuntes/Desarrollo de Sistemas con Herramientas Privadas/Proyecto .NET/sistema_cft/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rq23zwgk5f
